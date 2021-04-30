@@ -1,7 +1,7 @@
 # covid19Stats
 A simple script that displays COVID-19 statistics. Fast and user-friendly display of global or country specific data about pandemic.
 
-![preview](https://raw.githubusercontent.com/janpabisiak/covid19Stats/master/assets/img.PNG)
+![preview](https://raw.githubusercontent.com/janpabisiak/covid19Stats/main/assets/images/preview.PNG)
 
 ### Current Version:
 v1.0
