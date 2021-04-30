@@ -18,7 +18,7 @@ v1.0
 ### Requirements and Support:
 - PHP 5.3+
 - Supported Browsers: Chrome/Firefox/Edge/Android
-- Supported OS: Windows/Linux
+- Supported OS: Windows/Linux/macOS
 
 ### Installation:
 1. Download Repository.
