@@ -30,6 +30,12 @@ v1.0
 ### Report bugs and request for changes
 If you want to contact me please use Public Email from my GitHub Profile. Thank you!
 
+### Credits
+- [Freepik](https://www.freepik.com)
+- [Flaticon](https://www.flaticon.com/)
+- [orldometers.info]()
+- [isease.sh API]()
+
 ### Donate
 - BTC: 3Gd6f2ChYwspMAzQo94zMXB3bEHeLtRav4
 - ETH: 0xf76F03F82341DbD488545B750756DF1f0e5e77e0
