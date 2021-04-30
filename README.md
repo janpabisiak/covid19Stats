@@ -36,6 +36,8 @@ If you want to contact me please use Public Email from my GitHub Profile. Thank 
 - [Material Design Icons](https://materialdesignicons.com)
 - [Worldometers.info](https://www.worldometers.info)
 - [disease.sh API](https://disease.sh)
+- [iscrolljs](https://github.com/Rekseto/iscrolljs)
+- [Bootstrap](https://getbootstrap.com/)
 
 ### Donate
 - BTC: 3Gd6f2ChYwspMAzQo94zMXB3bEHeLtRav4
