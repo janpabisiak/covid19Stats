@@ -12,6 +12,8 @@ v1.0
 - Number of recovered (all the time/today)
 - Number of deaths (all the time/today)
 - Number of COVID-19 tests (all the time)
+- World/Country population
+- Easy Disqus.com integration
 - Mortality percentage [%]
 - Recovered percentage [%]
 
