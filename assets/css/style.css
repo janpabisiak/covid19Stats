@@ -1,0 +1,84 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+body {
+    color: #eee;
+}
+header {
+    background: #8c72da;
+    background-size: cover;
+    min-height: 76vh;
+}
+header .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 76vh;
+    flex-direction: column;
+}
+.bg {
+    background: linear-gradient(0deg, rgba(28, 28, 28) 0%, rgba(28, 28, 28) 10%, rgba(30, 30, 30, 0.1) 100%);
+    min-height: 76vh;
+}
+#blog {
+    min-height: 25vh;
+    background: #1c1c1c;
+}
+#stats {
+    min-height: 25vh;
+    background: #1c1c1c;
+}
+footer {
+    background: #1c1c1c !important;
+    min-height: 25vh;
+}
+.btn-purple {
+    background: #8c72da;
+    color: #eee;
+    border-radius: 2px;
+}
+.btn-purple:hover {
+    background: #836acd;
+    color: #eee;
+}
+.buttons .btn i {
+    margin-right: 10px;
+}
+.buttons .btn {
+    margin-top: 20px;
+    margin: 5px;
+}
+.stats-box {
+    background: #8c72da;
+    text-align: center;
+    border-radius: 2px;
+}
+.stats-body {
+    font-size: 30pt;
+    line-height: 2em;
+}
+.stats-footer {
+    font-size: 15pt;
+    line-height: 3em;
+    margin-bottom: 5px;
+    background-color: #836acd;
+}
+ul.blog-list li:last-child {
+    border-bottom: none;
+}
+.blog-list-box {
+    margin-top: 5px;
+    background: #8c72da;
+    border-radius: 2px;
+}
+ul.blog-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li.blog {
+    margin-left: 15px;
+    display: block;
+    font-size: 14pt;
+    line-height: 2.3em;
+}

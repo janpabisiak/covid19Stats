@@ -1,0 +1,5 @@
+# All
+User-agent: *
+Allow: /
+
+Sitemap: https://trackcovid.pl/sitemap.xml
