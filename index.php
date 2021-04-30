@@ -190,7 +190,6 @@
                     </div>
                     <div class="container">
                         <h2 class="text-center mb-3 pt-2">Comments</h2>
-                        <div style="display: none;"><a href="https://www.sparktraffic.com/?ref=983554">Traffic Bot</a></div>
                         <div class="row pb-5">
                             <div class="col-md-12">
                             <div id="disqus_thread"></div>
