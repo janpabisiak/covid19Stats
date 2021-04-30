@@ -33,8 +33,9 @@ If you want to contact me please use Public Email from my GitHub Profile. Thank 
 ### Credits
 - [Freepik](https://www.freepik.com)
 - [Flaticon](https://www.flaticon.com/)
-- [orldometers.info]()
-- [isease.sh API]()
+- [Material Design Icons](https://materialdesignicons.com)
+- [Worldometers.info](https://www.worldometers.info)
+- [disease.sh API](https://disease.sh)
 
 ### Donate
 - BTC: 3Gd6f2ChYwspMAzQo94zMXB3bEHeLtRav4
