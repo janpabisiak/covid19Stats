@@ -1,10 +1,13 @@
+<?php 
 /**
 * A simple script written in PHP that displays COVID-19 stats.
 * @license GNU General Public License
 * @author Jan Pabisiak
 * @copyright 2021 Jan Pabisiak
 */
-<?php include_once("partial/header.php"); ?>
+
+include_once("partial/header.php"); 
+?>
         <header>
             <div class="bg">
                 <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
