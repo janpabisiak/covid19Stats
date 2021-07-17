@@ -1,10 +1,11 @@
+<?php
 /**
 * A simple script written in PHP that displays COVID-19 stats.
 * @license GNU General Public License
 * @author Jan Pabisiak
 * @copyright 2021 Jan Pabisiak
 */
-<?php
+
     include_once("partial/header.php");
 
     $response = file_get_contents('https://disease.sh/v3/covid-19/all?yesterday=true&twoDaysAgo=true');
